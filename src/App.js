@@ -533,7 +533,7 @@ const InternTimeLogger = () => {
         <div style={mobileStyles.headerContent}>
           <div>
             <h1 style={mobileStyles.title}>Central Assembly</h1>
-            <p style={mobileStyles.subtitle}>Time Logger</p>
+            <p style={mobileStyles.subtitle}>Intern Time Logger</p>
           </div>
           <div style={mobileStyles.statusBadge}>
             {isOnline ? <Wifi size={16} /> : <WifiOff size={16} />}
