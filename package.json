@@ -1,0 +1,12 @@
+{
+  "name": "central-assembly-time-logger",
+  "version": "1.0.0",
+  "description": "Time tracking app for Central Assembly interns",
+  "homepage": "https://central-intern-time-logger.netlify.app",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.263.1"
+  }
+}
